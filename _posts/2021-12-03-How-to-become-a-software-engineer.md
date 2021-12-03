@@ -1,4 +1,8 @@
-**How to become a software engineer?**
+---
+title: "How to become a software engineer?"
+date: 2021-12-03
+---
+
 
 You might have seen a person sitting alone in front of a computer (maybe nerdy) all day in front of a black screen doing some mathematical calculation (sounds boring…??) or you might have pictured someone like Mark Zuckerberg, Sundar Pichai or Bill Gates. Whatever you picture in your head you can’t deny the fact that even if a software engineer seems to be a boring person (they aren’t actually), these people are still considered as the smartest, intelligent and coolest people in the world. Technology is solving a lot of issues in the world. Thousand of workers’ efforts can be reduced in a company by just introducing software to them. These all are the reasons a lot of people wants to become a software engineer or developer and they love to help people by building something that can solve their problems. Software Engineering is one of the highest-paid jobs in the world but you really need a lot of patience, constant learning and constant improvement in this field. For newbies, it’s difficult to find out where to start and what would be the best path to become a software developer or engineer. We are going to discuss some options and a general path that will help you to enter in this industry as a programmer but understand that there is no single path to becoming a software engineer.
 
